@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
 <h1 align="center">Hi 👋, I'm Dimas Prabowo</h1>
-<h3 align="center">A Passionate Network Engineer Student from Indonesia</h3>
+<h3 align="center">A Passionate Network Engineer Student from UTM</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 - 🔭 I’m currently working on **Final Year Project**
