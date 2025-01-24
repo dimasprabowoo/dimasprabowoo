@@ -7,10 +7,13 @@
 
 - 🌱 I’m currently learning **Laravel Framework, React.js**
 
+- 📝 All of my SECP1513-TIS projects are available at [SECP1513-TIS](https://github.com/dimasprabowoo/SECP1513-TIS)
+  
 - 📫 How to reach me **dimasprabowo0000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/dimms.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimms.p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
