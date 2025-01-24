@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)]
+![MasterHead](https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif)
 <h1 align="center">Hi 👋, I'm Dimas Prabowo</h1>
 <h3 align="center">A passionate network engineer student from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
